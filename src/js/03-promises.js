@@ -1,6 +1,4 @@
-
 import { Notify } from "notiflix/build/notiflix-notify-aio";
-
 
 function createPromise(position, delay) {
       return new Promise((resolve, reject) => {
